@@ -1,0 +1,73 @@
+role,reported_major_department,college,mapping_basis,source_url,responses,umb_affiliated
+Exchange student,Business Informatics,College of Management,Organizer-confirmed business college assignment,,1,Yes
+External guest,Alumni,No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+External guest,Biomedical research,No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+External guest,CS,No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+External guest,Computer Science,No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+External guest,Computer science,No college assigned,External/non-UMass response; no UMass college inferred,,2,No
+External guest,Dietetics,No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+External guest,Economics,No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+External guest,Education,No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+External guest,"Human Services, Education",No college assigned,External/non-UMass response; no UMass college inferred,,1,No
+Faculty,Computer Science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,2,Yes
+Faculty,Computer science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Staff,Early College,No college assigned,Staff excluded from college-role plots and reported separately in text,,2,Yes
+Faculty,Education,College of Education & Human Development,Reported education program or explicit CEHD unit,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Faculty,Engineering,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Faculty,MSIS,College of Management,Information-systems/management program mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Faculty,Management,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Master's student,College of Management,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Master's student,Computer Science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,2,Yes
+Master's student,Computer Scuence,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Master's student,Computer science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Master's student,Conflict Resolution,College of Liberal Arts,McCormack and related programs grouped within Liberal Arts,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Master's student,Finance,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Master's student,Industrial Engineering,College of Science & Mathematics,Organizer-confirmed college assignment,,1,Yes
+Master's student,International Relations,College of Liberal Arts,McCormack and related programs grouped within Liberal Arts,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Master's student,MBA,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,4,Yes
+Master's student,masters in business analytics,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,2,Yes
+PhD student,Biology,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,Biology dep,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,Biophysics,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,Computational Science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,Computational science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,Computer Science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,11,Yes
+PhD student,Computer science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,GERONTOLOGY,Manning College of Nursing & Health Sciences,Program-to-college mapping; Gerontology is in Manning,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,2,Yes
+PhD student,Gerontology,Manning College of Nursing & Health Sciences,Program-to-college mapping; Gerontology is in Manning,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,Global Governance &Human Security,College of Liberal Arts,McCormack and related programs grouped within Liberal Arts,https://www.umb.edu/academics/colleges-schools/,1,Yes
+PhD student,Global Governance and Human Security,College of Liberal Arts,McCormack and related programs grouped within Liberal Arts,https://www.umb.edu/academics/colleges-schools/,1,Yes
+PhD student,Information Systems in a Data Science track,College of Management,Information-systems/management program mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+PhD student,MGS and CLA,College of Liberal Arts,McCormack and related programs grouped within Liberal Arts,https://www.umb.edu/academics/colleges-schools/,1,Yes
+PhD student,Management,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+PhD student,Nursing,Manning College of Nursing & Health Sciences,Program-to-college mapping; Gerontology is in Manning,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,Public Policy,College of Liberal Arts,McCormack and related programs grouped within Liberal Arts,https://www.umb.edu/academics/colleges-schools/,2,Yes
+PhD student,Urban Education,College of Education & Human Development,Reported education program or explicit CEHD unit,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+PhD student,information systems for data science and management,College of Management,Information-systems/management program mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Staff,ACES,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Staff,Advancement,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Staff,Gerontology,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Staff,IAAS & GLPP Certificate Candidate,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Staff,ICI at Umass Boston / SGSD / CEHD,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Staff,IT,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Staff,IT Emerging Technologies,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Staff,Information Technology,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.cs.umb.edu/it_bs,1,Yes
+Staff,marketing,No college assigned,Staff excluded from college-role plots and reported separately in text,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Undergraduate,CS,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,7,Yes
+Undergraduate,Computer Science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,27,Yes
+Undergraduate,Computer Science (BS),College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Undergraduate,Computer Science BS,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Undergraduate,Computer Science,College of Science & Mathematics,Organizer correction: Aariba Amin has Computer Science major,,1,Yes
+Undergraduate,Computer science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,6,Yes
+Undergraduate,Cs,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,2,Yes
+Undergraduate,Data Analytics and Finance,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Undergraduate,EHS,Manning College of Nursing & Health Sciences,Program-to-college mapping; Gerontology is in Manning,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Undergraduate,Early education,College of Education & Human Development,Reported education program or explicit CEHD unit,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Undergraduate,Electrical Engineering/Engineering Dept./Integrated Circuit,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Undergraduate,Environmental Science,School for the Environment,Program-to-school mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
+Undergraduate,Information Technology,College of Science & Mathematics,Organizer-confirmed college assignment,,2,Yes
+Undergraduate,Management | Entrepreneurship,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Undergraduate,Political Science,College of Liberal Arts,McCormack and related programs grouped within Liberal Arts,https://www.umb.edu/academics/colleges-schools/,1,Yes
+Undergraduate,Supply Chain,College of Management,Program-to-college mapping,https://www.umb.edu/business/academic-departments/management-science--information-systems/,1,Yes
+Undergraduate,computer science,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,2,Yes
+Undergraduate,cs,College of Science & Mathematics,Program-to-college mapping,https://www.umb.edu/media/umassboston/editor-uploads/commencement/documents/UMass_Boston_College_and_Major_Listing_2026.pdf,1,Yes
